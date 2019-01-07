@@ -4,13 +4,14 @@
 
 ### General
 
-Node.js (or node in short) allows you to create a server side application in JavaScript, a language which up until recently.
+Node.js (or node in short) allows you to create a server side application in JavaScript, a language which up until recently was only used for backend.
 
 A server side application allows you to for example create your own API. This makes it so you can serve data from the database to an application.
 
 To make the difference clear, you can have the frontend of an application, which will show data in a visual way. Node.js allows you to make an application that will provide that data to the frontend.
 
 ![image of backend](http://felixthea.com/wp-content/uploads/2014/04/Diagram-of-Fullstack.png "title")
+in the image above, the backend is written in node (javascript), eventhough it is not in the picture.
 
 The big benefits of Node.js is that you can write javascript, so you do not need to learn a different programming language.
 
