@@ -81,7 +81,7 @@ npm install is the command you will run when you want to install a package. Reme
 
 As an example, let's use chalk and nodemon.
 
-In [this exampl repository](https://github.com/wesobi/HYF-node-example) (which i will use from this point out), you can see that we have a package.json file. It has a JSON object, with the dependencies field and devDependencies field.
+In [this example repository](https://github.com/wesobi/HYF-node-example) (which i will use from this point out), you can see that we have a package.json file. It has a JSON object, with the dependencies field and devDependencies field.
 
 `Dependencies` are packages of code your application relies on to run. If you ever put this node.js app online somewhere, it will require the code of chalk to run.
 
