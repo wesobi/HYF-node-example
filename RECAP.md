@@ -4,7 +4,7 @@
 
 ### General
 
-Node.js (or node in short) allows you to create a server side application in JavaScript, a language which up until recently was only used for backend.
+Node.js (or node in short) allows you to create a server side application in JavaScript, a language which up until recently was only used for frontend.
 
 A server side application allows you to for example create your own API. This makes it so you can serve data from the database to an application.
 
